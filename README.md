@@ -1,6 +1,6 @@
-#hello this is a sample file in my first repository
+# hello this is a sample file in my first repository
 
-#My name is HARISH
+# My name is HARISH
 
 -----
 ......
