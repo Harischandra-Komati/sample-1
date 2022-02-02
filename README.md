@@ -7,3 +7,4 @@
 ******
 -----
 # added through locally
+open index.html in browser
